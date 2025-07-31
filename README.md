@@ -6,15 +6,18 @@ analysis_notebook.ipynb – Jupyter Notebook with data analysis, model building,
 internshalaproject.pdf – Final project report summarizing objectives, methods, and findings.
 visualizations.pdf – Tableau dashboards showing market insights.
 data/ – Contains original and processed Excel datasets.
+
 🔧 Tools & Techniques
 Python (Pandas, NumPy, Scikit-learn, Matplotlib)
 Machine Learning (Linear Regression, Logistic Regression, Classification)
 Forecasting (Moving Average, RMSE, MAPE)
 Tableau for dashboard visualizations
+
 🎯 Key Outcomes
 Identified potential buyers based on demographics and financial data
 Predicted purchase behavior with ~66,000 likely buyers
 Created actionable visual insights for the marketing team
+
 📝 Author
 Sonu kamat
 Intern ABG Motors(june-july 2025) 
